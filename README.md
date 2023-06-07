@@ -1,25 +1,12 @@
-<style>
-.box {
-  border: 2px solid #000000;
-  padding: 10px;
-}
-</style>
+> **A caring human being with a passion for data4good, green tech & environmental protection**
 
-<div class="box">
-  <h3 align="center">A caring human being with a passion for data4good, green tech & environmental protection</h3>
-</div>
-
-<h3 align="left">Projects:</h3>
+## Projects:
 
 ### Deep Learning Approaches for Precise Roof Segmentation in Commercial Buildings for Solar Panel Placement
 
-<p align="center">
-  <img src="https://github.com/a-schuller/a-schuller/assets/117579505/68461152-5afd-4d65-adf1-b66a4c1e0254" alt="building_24">
-</p>
+![building_24](https://github.com/a-schuller/a-schuller/assets/117579505/68461152-5afd-4d65-adf1-b66a4c1e0254)
 
-<p align="center">
-  <a href="https://medium.com/@andreas-schuller/941e8f832b17"><b>✨ Click to read the full story! ✨</b></a>
-</p>
+[✨ Click to read the full story! ✨](https://medium.com/@andreas-schuller/941e8f832b17)
 
 
 
