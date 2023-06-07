@@ -2,8 +2,11 @@
 
 <h3 align="left">Portfolio:</h3>
 Deep Learning Approaches for Precise Roof Segmentation in Commercial Buildings for Solar Panel Placement
+
 ![building_24](https://github.com/a-schuller/a-schuller/assets/117579505/68461152-5afd-4d65-adf1-b66a4c1e0254)
-[✨ Click, to read the full story!✨](https://medium.com/@andreas-schuller/941e8f832b17)
+
+[✨ Click to read the full story! ✨](https://medium.com/@andreas-schuller/941e8f832b17)
+
 <p align="left">
 </p>
 
