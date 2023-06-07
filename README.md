@@ -1,12 +1,17 @@
-<h3 align="center">A caring human being with passion for data4good, green tech & environmental protection</h3>
+<h3 align="center">A caring human being with a passion for data4good, green tech & environmental protection</h3>
 
 <h3 align="left">Projects:</h3>
 
-## Deep Learning Approaches for Precise Roof Segmentation in Commercial Buildings for Solar Panel Placement
+### Deep Learning Approaches for Precise Roof Segmentation in Commercial Buildings for Solar Panel Placement
 
-![building_24](https://github.com/a-schuller/a-schuller/assets/117579505/68461152-5afd-4d65-adf1-b66a4c1e0254)
+<p align="center">
+  <img src="https://github.com/a-schuller/a-schuller/assets/117579505/68461152-5afd-4d65-adf1-b66a4c1e0254" alt="building_24">
+</p>
 
-[✨ Click to read the full story! ✨](https://medium.com/@andreas-schuller/941e8f832b17)
+<p align="center">
+  <a href="https://medium.com/@andreas-schuller/941e8f832b17"><b>✨ Click to read the full story! ✨</b></a>
+</p>
+
 
 <p align="left">
 </p>
