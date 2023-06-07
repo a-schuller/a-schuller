@@ -1,4 +1,13 @@
-<h3 align="center">A caring human being with a passion for data4good, green tech & environmental protection</h3>
+<style>
+.box {
+  border: 2px solid #000000;
+  padding: 10px;
+}
+</style>
+
+<div class="box">
+  <h3 align="center">A caring human being with a passion for data4good, green tech & environmental protection</h3>
+</div>
 
 <h3 align="left">Projects:</h3>
 
@@ -12,9 +21,6 @@
   <a href="https://medium.com/@andreas-schuller/941e8f832b17"><b>✨ Click to read the full story! ✨</b></a>
 </p>
 
-
-<p align="left">
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
