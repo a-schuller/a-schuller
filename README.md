@@ -5,7 +5,7 @@
 ### Deep Learning Approaches for Precise Roof Segmentation in Commercial Buildings for Solar Panel Placement
 
 <p align="center">
-  <img src="https://github.com/a-schuller/a-schuller/assets/117579505/68461152-5afd-4d65-adf1-b66a4c1e0254" alt="building_24" width="300">
+  <img src="https://github.com/a-schuller/a-schuller/assets/117579505/68461152-5afd-4d65-adf1-b66a4c1e0254" alt="building_24" width="600">
 </p>
 
 <p align="center">
@@ -18,8 +18,6 @@
 
 
 
-
-### Hi there 👋
 
 <!--
 **a-schuller/a-schuller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
