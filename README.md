@@ -16,18 +16,18 @@
 
 ### Prediction of Dengue Fever in South American Cities based on data from drivendata.org
 <p align="center">
-  <a href="https://github.com/a-schuller/Dengue-Fever-Prediction" align="center"><b>✨ Click to have look at the code! ✨</b></a>
+  <a href="https://github.com/a-schuller/Dengue-Fever-Prediction" align="center"><b>✨ Click to have a look at the code! ✨</b></a>
 </p>
 
 ---
 
 ### Realtime App on costumer churn prediction with toy data
 <p align="center">
-  <a href="https://a-schuller-costumer-churn-prediction-streamlit-app-full-npcymu.streamlit.app/" align="center"><b>✨ Click to have look at the app! ✨</b></a>
+  <a href="https://a-schuller-costumer-churn-prediction-streamlit-app-full-npcymu.streamlit.app/" align="center"><b>✨ Click to have a look at the app! ✨</b></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/a-schuller/Costumer_Churn_Prediction" align="center"><b>✨ Click to have look at the code! ✨</b></a>
+  <a href="https://github.com/a-schuller/Costumer_Churn_Prediction" align="center"><b>✨ Click to have a look at the code! ✨</b></a>
 </p>
 
 ---
