@@ -1,7 +1,5 @@
 > **A caring human being with a passion for data4good, green tech & environmental protection**
 
-## Projects:
-
 ### Deep Learning Approaches for Precise Roof Segmentation in Commercial Buildings for Solar Panel Placement
 
 <p align="center">
